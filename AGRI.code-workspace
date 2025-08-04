@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../AGRI"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../movie"
+		}
+	],
+	"settings": {}
+}

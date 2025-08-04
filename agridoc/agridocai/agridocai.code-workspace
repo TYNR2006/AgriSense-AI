@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../agridoc-ai"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "../src"
+		}
+	]
+}
