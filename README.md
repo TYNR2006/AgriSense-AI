@@ -7,7 +7,6 @@
 ## 🚀 Live Demo
 
 👉 [**Click here to view the project**](https://your-live-link.com)  
-*(Add your deployment link here)*
 
 ---
 
